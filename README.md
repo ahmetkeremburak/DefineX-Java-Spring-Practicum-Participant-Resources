@@ -56,6 +56,9 @@ May this repo bring knowledge and ease hardships for every student, inshaallah.
 #### - [Refactoring.guru on Design Patterns](https://refactoring.guru/design-patterns/catalog)
 > All design patterns in one place. Assisted by a pretty and easy to navigate website design.
 
+#### - [Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/0596007124/)
+> This edition of Head First Design Patterns—now updated for Java 8—shows you patterns used by developers to create functional, elegant, reusable, and flexible software.
+
 ### ***Layered Architecture***
 ---
 #### - [Purpose of Service Interfaces in Spring Boot](https://stackoverflow.com/questions/62599259/purpose-of-service-interface-class-in-spring-boot)
