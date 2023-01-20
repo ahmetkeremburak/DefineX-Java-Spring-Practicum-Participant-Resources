@@ -23,7 +23,7 @@ May this repo bring knowledge and ease hardships for every student, inshaallah.
 #### - [Spring Boot Complete Tutorial](https://www.youtube.com/watch?v=zvR-Oif_nxg)
 > 10 Hour Spring Boot class in one Youtube video by Daily Code Buffer.
 
-#### - TR [FolksDev ](https://www.youtube.com/@FolksDev)
+#### - TR(Turkish) [FolksDev ](https://www.youtube.com/@FolksDev)
 > FolksDev Youtube channel on various programming topics including Java, Spring, Spring Boot. 
 
 ### ***Desing Patterns***
