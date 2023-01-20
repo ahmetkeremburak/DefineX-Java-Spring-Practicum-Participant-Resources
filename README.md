@@ -1,7 +1,7 @@
 # DefineX-Java-Spring-Practicum-Participant-Resources
  This repo is formed to gather Java Spring resources shared by participants of [Patika's](https://app.patika.dev/) DefineX Java Spring Practicum 2023.
  
- As a lot of posts piled up in the Discord server, resources were mixing up and becoming harder to find. I thought a single hub to save them could be useful for navigating in the future. Of course, not just for people in the practicum, also for any budding Spring Student that may follow.
+ As a lot of posts piled up in the Discord server, resources were mixing up and becoming harder to find. I thought a single hub to save them could be useful for navigating. Of course, this repo is not just for people in the practicum, also for any budding Spring Student that may follow.
 May this repo bring knowledge and ease hardships for every student, inshaallah.  
 
 ## [Videos](#videos)
