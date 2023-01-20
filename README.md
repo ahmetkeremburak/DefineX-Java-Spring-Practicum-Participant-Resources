@@ -4,8 +4,8 @@
  As a lot of posts piled up in the Discord server, resources were mixing up and becoming harder to find. I thought a single hub to save them could be useful for navigating. Of course, this repo is not just for people in the practicum, also for any budding Spring newbie that may follow.
 May this repo bring knowledge and ease hardships for every student, inshaallah.  
 
-## [Videos](#videos)
-## [Written Materials](#written-materials)
+## [Go to Videos](#videos)
+## [Go to Written Materials](#written-materials)
 
 <img title="spring_logo" alt="Logo for Spring" src="spring_logo.jpg">
 
