@@ -28,7 +28,7 @@ May this repo bring knowledge and ease hardships for every student, inshaallah.
 
 ### ***Desing Patterns***
 
-#### - [Design Patterns by Akın Kaldıroğlu](https://www.udemy.com/course/designpatterns/)
+#### - TR [Design Patterns by Akın Kaldıroğlu](https://www.udemy.com/course/designpatterns/)
 > Udemy Course on Design Patterns by Akın Kaldıroğlu.
 
 
