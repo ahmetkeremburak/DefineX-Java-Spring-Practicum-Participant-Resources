@@ -7,6 +7,7 @@ May this repo bring knowledge and ease hardships for every student, inshaallah.
 ## [Videos](#videos)
 ## [Written Materials](#written-materials)
 
+<img title="spring_logo" alt="Logo for Spring" src="spring_logo.jpg">
 
 ## Videos
 
