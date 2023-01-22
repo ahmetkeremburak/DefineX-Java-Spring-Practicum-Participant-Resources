@@ -31,6 +31,8 @@ May this repo bring knowledge and ease hardships for every student, inshaallah.
 #### - TR [Design Patterns by Akın Kaldıroğlu](https://www.udemy.com/course/designpatterns/)
 > Udemy Course on Design Patterns by Akın Kaldıroğlu.
 
+#### - TR [Dilruba Köse](https://www.youtube.com/@dilrubakose/featured)
+> Dilruba Köse's Youtube channel containing various topics related to computer engineering including Spring Framework.
 
 ## Written Materials
 
@@ -50,6 +52,12 @@ May this repo bring knowledge and ease hardships for every student, inshaallah.
 
 #### - [Top 10 Most Common Spring Framework Mistakes](https://www.toptal.com/spring/top-10-most-common-spring-framework-mistakes)
 > In this article, the most common pitfalls of using the Spring framework has been covered so new and experienced developers alike have a roadmap of what to avoid.
+
+#### - [Spring Boot Tutorial with Project](https://gainjavaknowledge.medium.com/spring-boot-tutorial-2e8c9adc36a9)
+> Learn everything about Spring boot framework that every Java developer should need to know.
+
+#### - [Public APIs](https://github.com/public-apis/public-apis)
+> A collective list of free APIs for use in software and web development
 
 ### ***Desing Patterns***
 ---
