@@ -24,15 +24,16 @@ May this repo bring knowledge and ease hardships for every student, inshaallah.
 > 10 Hour Spring Boot class in one Youtube video by Daily Code Buffer.
 
 #### - TR(Turkish) [FolksDev ](https://www.youtube.com/@FolksDev)
-> FolksDev Youtube channel on various programming topics including Java, Spring, Spring Boot. 
+> FolksDev Youtube channel on various programming topics including Java, Spring, Spring Boot.
+
+#### - TR [Dilruba Köse](https://www.youtube.com/@dilrubakose/featured)
+> Dilruba Köse's Youtube channel containing various topics related to computer engineering including Spring Framework.
 
 ### ***Desing Patterns***
 
 #### - TR [Design Patterns by Akın Kaldıroğlu](https://www.udemy.com/course/designpatterns/)
 > Udemy Course on Design Patterns by Akın Kaldıroğlu.
 
-#### - TR [Dilruba Köse](https://www.youtube.com/@dilrubakose/featured)
-> Dilruba Köse's Youtube channel containing various topics related to computer engineering including Spring Framework.
 
 ## Written Materials
 
