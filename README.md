@@ -29,6 +29,9 @@ May this repo bring knowledge and ease hardships for every student, inshaallah.
 #### - TR [Dilruba Köse](https://www.youtube.com/@dilrubakose/featured)
 > Dilruba Köse's Youtube channel containing various topics related to computer engineering including Spring Framework.
 
+#### - [How To Create An Amazing Profile ReadMe](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
+> How to create a gorgeous readme file for your github profile
+
 ### ***Desing Patterns***
 
 #### - TR [Design Patterns by Akın Kaldıroğlu](https://www.udemy.com/course/designpatterns/)
@@ -78,4 +81,12 @@ May this repo bring knowledge and ease hardships for every student, inshaallah.
 #### - [Article on OWASP Top Ten Vulnerabilities in 2022](https://www.spiceworks.com/it-security/vulnerability-management/articles/owasp-top-ten-vulnerabilities/)
 > This article explains ten prevalent vulnerabilities listed by OWASP that are most likely to affect enterprises in the coming years.
 
-    
+### ***Multi-Threading***
+---
+#### - [Java Concurrency Tutorial](https://www.vogella.com/tutorials/JavaConcurrency/article.html)
+> This article describes how to do concurrent programming with Java
+
+### ***IDEs***
+---
+#### - [IntelliJ Idea Tricks](https://medium.com/coderbyte/intellij-idea-tricks-that-i-use-daily-java-spring-ms-handling-40bc1239d371?source=userActivityShare-d9dd3829015f-1674475144&_branch_match_id=1146144306998188592&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9bLTU3JLM3VS87P1c%2B18KgwNjY29C9PAgDFoU%2BzIwAAAA%3D%3D)
+> Sharing some of the hidden functionalities of the powerful IDE that I use daily at work — IntelliJ Idea
