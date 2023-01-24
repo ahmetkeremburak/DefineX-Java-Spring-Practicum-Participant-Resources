@@ -63,6 +63,11 @@ May this repo bring knowledge and ease hardships for every student, inshaallah.
 #### - [Public APIs](https://github.com/public-apis/public-apis)
 > A collective list of free APIs for use in software and web development
 
+### ***Annotations***
+---
+#### - [Spring Boot Annotations](https://dev.to/pmgysel/learn-spring-boot-by-annotations-1h0i)
+> This blog will teach you the basics of Spring Boot by looking at the available annotations.
+
 ### ***Desing Patterns***
 ---
 #### - [Refactoring.guru on Design Patterns](https://refactoring.guru/design-patterns/catalog)
@@ -70,6 +75,9 @@ May this repo bring knowledge and ease hardships for every student, inshaallah.
 
 #### - [Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/0596007124/)
 > This edition of Head First Design Patterns—now updated for Java 8—shows you patterns used by developers to create functional, elegant, reusable, and flexible software.
+
+#### - [Java Design Patterns Examples](https://www.digitalocean.com/community/tutorials/java-design-patterns-example-tutorial)
+> Definitions and examples of design patterns
 
 ### ***Layered Architecture***
 ---
