@@ -37,6 +37,9 @@ May this repo bring knowledge and ease hardships for every student, inshaallah.
 #### - TR [Design Patterns by Akın Kaldıroğlu](https://www.udemy.com/course/designpatterns/)
 > Udemy Course on Design Patterns by Akın Kaldıroğlu.
 
+### ***Testing***
+#### - TR [JUnit lessons by Barış Dere](https://www.udemy.com/course/unit-test-yazma-sanati/)
+> Barış Dere's free lessons on Unit Testing at Udemy
 
 ## Written Materials
 
@@ -62,6 +65,20 @@ May this repo bring knowledge and ease hardships for every student, inshaallah.
 
 #### - [Public APIs](https://github.com/public-apis/public-apis)
 > A collective list of free APIs for use in software and web development
+
+#### - [Java Developer Roadmap](https://roadmap.sh/java)
+> This roadmap lays out a path to become a Java Developer
+
+#### - [Powerpoint Slides by Ramazan Sakin](https://github.com/ramazansakin/patika-paycore-bootcamp-slides)
+> Powerpoint slides about Java, shared by Ramazan Sakin
+
+#### - [Beginner Mistakes of Newbie Programmers](https://medium.com/edge-coders/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312)
+> "If you are a beginner programmer, this article is not meant to make you feel bad about the mistakes that you might be making but rather to make you aware of them, teach you to spot signs of them, and remind you to avoid them."
+
+### ***JavaScript***
+---
+#### - [Full Stack Javascript](https://www.theodinproject.com/paths/full-stack-javascript?)
+> This path takes you through our entire JavaScript curriculum.
 
 ### ***Annotations***
 ---
