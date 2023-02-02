@@ -37,6 +37,9 @@ May this repo bring knowledge and ease hardships for every student, inshaallah.
 #### - TR [Design Patterns by Akın Kaldıroğlu](https://www.udemy.com/course/designpatterns/)
 > Udemy Course on Design Patterns by Akın Kaldıroğlu.
 
+#### - [Java DTO design Pattern Tutorial](https://www.youtube.com/watch?v=5yquJa2x3Ko)
+> DTO design pattern tutorial by Amigoscode
+
 ### ***Testing***
 #### - TR [JUnit lessons by Barış Dere](https://www.udemy.com/course/unit-test-yazma-sanati/)
 > Barış Dere's free lessons on Unit Testing at Udemy
