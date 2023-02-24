@@ -63,6 +63,9 @@ May this repo bring knowledge and ease hardships for every student, inshaallah.
 #### - [Top 10 Most Common Spring Framework Mistakes](https://www.toptal.com/spring/top-10-most-common-spring-framework-mistakes)
 > In this article, the most common pitfalls of using the Spring framework has been covered so new and experienced developers alike have a roadmap of what to avoid.
 
+#### - [Why you should be using Spring Batch for batch processing](https://giuliana-bezerra.medium.com/why-you-should-be-using-spring-batch-for-batch-processing-83f5aafb965f)
+> The statement “data is the new oil” should be familiar to you. The cloud stores a huge amount of data, which grows over time. Therefore, it is important that systems are able to query and store this data in a timely manner without impacting user experience.
+
 #### - [Spring Boot Tutorial with Project](https://gainjavaknowledge.medium.com/spring-boot-tutorial-2e8c9adc36a9)
 > Learn everything about Spring boot framework that every Java developer should need to know.
 
@@ -109,6 +112,10 @@ May this repo bring knowledge and ease hardships for every student, inshaallah.
 #### - [Article on OWASP Top Ten Vulnerabilities in 2022](https://www.spiceworks.com/it-security/vulnerability-management/articles/owasp-top-ten-vulnerabilities/)
 > This article explains ten prevalent vulnerabilities listed by OWASP that are most likely to affect enterprises in the coming years.
 
+#### - [Spring Security with JWT for REST API](https://www.toptal.com/spring/spring-security-tutorial)
+> Spring Security is the de facto framework for securing Spring apps, but it can be tricky to configure. This Spring Security tutorial highlights an efficient JWT solution.
+
+
 ### ***Multi-Threading***
 ---
 #### - [Java Concurrency Tutorial](https://www.vogella.com/tutorials/JavaConcurrency/article.html)
@@ -118,3 +125,11 @@ May this repo bring knowledge and ease hardships for every student, inshaallah.
 ---
 #### - [IntelliJ Idea Tricks](https://medium.com/coderbyte/intellij-idea-tricks-that-i-use-daily-java-spring-ms-handling-40bc1239d371?source=userActivityShare-d9dd3829015f-1674475144&_branch_match_id=1146144306998188592&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9bLTU3JLM3VS87P1c%2B18KgwNjY29C9PAgDFoU%2BzIwAAAA%3D%3D)
 > Sharing some of the hidden functionalities of the powerful IDE that I use daily at work — IntelliJ Idea
+
+### ***Performance***
+---
+#### - [High-Performance Java Persistence Book](https://vladmihalcea.com/books/high-performance-java-persistence/)
+> Want to run your data access layer at high speeds?
+
+#### - [Lock it, Block it but Don't Deadlock it](https://arctype.com/blog/database-deadlock/)
+> Learn how deadlocks may be impacting your database performance, and how you can resolve them
